@@ -2,7 +2,7 @@
 
 serialize/unserialize data with golang.
 
-base on [unserialize.js](https://github.com/kvz/phpjs/blob/master/functions/var/unserialize.js) and [unserialize.js](https://github.com/kvz/phpjs/blob/master/functions/var/unserialize.js).
+base on [unserialize.js](https://github.com/kvz/phpjs/blob/master/functions/var/unserialize.js) and [go-simplejson](https://github.com/bitly/go-simplejson).
 
 ## Install
 
